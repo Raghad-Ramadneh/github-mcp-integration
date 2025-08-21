@@ -44,7 +44,7 @@ github-mcp-integration/
 
 # 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/github-mcp-integration.git
+git clone https://github.com/raghad-ramadneh/github-mcp-integration.git
 cd github-mcp-integration
 
 # 2. Create and activate a virtual environment
